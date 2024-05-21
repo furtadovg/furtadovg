@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou @sorvetedemorango
+# 👋 Oi, eu sou @furtadovg
 
  Bem vindo ao meu perfil GitHub!
 - Curso Análise e Desenvolvimento de Sistemas;
