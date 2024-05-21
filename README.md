@@ -2,7 +2,7 @@
 
  Bem vindo ao meu perfil GitHub!
 - Curso Análise e Desenvolvimento de Sistemas;
-- Sou artista <a href="https://www.instagram.com/srvetdemorango/" target="_blank">@srvetdemorango</a>;
+- Sou artista <a href="https://www.instagram.com/srvetdemorango/" target="_blank"> @srvetdemorango </a>;
 - Tenho conhecimento em UX.
 
 
